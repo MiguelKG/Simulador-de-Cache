@@ -1,0 +1,2 @@
+.\cache_simulator 256 4 1 R 0 tests/bin_100.bin
+.\cache_simulator 128 2 4 R 0 tests/bin_1000.bin
